@@ -1,7 +1,7 @@
 # Talks 2019
 Lista de Talks de 2019
 
-## Janiero 2019 - Ilegra (32/01/2019)
+## Janiero 2019 - Ilegra (31/01/2019)
 
 ### - Juliano Terres - Fastlane
 
@@ -14,7 +14,7 @@ Lista de Talks de 2019
 
 ### - Homero Oliveira - Swift Tricks and Tips
 
-- Talk:
+- Talk: [https://www.slideshare.net/HomeroJuniorOliveira1/swift-tips-and-tricks](https://www.slideshare.net/HomeroJuniorOliveira1/swift-tips-and-tricks)
 
 
 ### - Nana Raythz - IA Para Mobile
