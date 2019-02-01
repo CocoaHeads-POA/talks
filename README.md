@@ -26,3 +26,5 @@ Lista de Talks de 2019
 ### - Luciano Sclovsky - TDC PoA 2018 iOS Infographics
 
 - Talk: 
+
+[https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics](https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics)
