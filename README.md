@@ -19,9 +19,7 @@ Lista de Talks de 2019
 
 ### - Juliano Terres - Fastlane
 
-- Repositório: 
-
-[https://github.com/julianoterres/ios-app-marvel-mvp-architecture](https://github.com/julianoterres/ios-app-marvel-mvp-architecture)
+- Repositório: [https://github.com/julianoterres/ios-app-marvel-mvp-architecture](https://github.com/julianoterres/ios-app-marvel-mvp-architecture)
 
 - Talk:
 
@@ -33,12 +31,9 @@ Lista de Talks de 2019
 
 ### - Nana Raythz - IA Para Mobile
 
-- Talk: 
+- Talk: [https://pt.slideshare.net/NatliaRaythz/cocoa-heads-ia-para-mobile](https://pt.slideshare.net/NatliaRaythz/cocoa-heads-ia-para-mobile)
 
-[https://pt.slideshare.net/NatliaRaythz/cocoa-heads-ia-para-mobile](https://pt.slideshare.net/NatliaRaythz/cocoa-heads-ia-para-mobile)
 
 ### - Luciano Sclovsky - TDC PoA 2018 iOS Infographics
 
-- Talk: 
-
-[https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics](https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics)
+- Talk: [https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics](https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics)
