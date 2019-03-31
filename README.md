@@ -3,6 +3,9 @@ Lista de Talks de 2019
 
 ## Março 2019 - Deliver IT (Cross com GDG) (28/03/2019)
 
+### - Victor Panitz Magalhães - Adicionando testes a aplicativos em produção
+
+- Talk: https://www.youtube.com/watch?v=xXaq0Dkr8BQ&t=1s
 
 
 ## Fevereiro 2019 - TW (28/02/2019)
