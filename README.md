@@ -15,7 +15,7 @@ Lista de Talks de 2019
 - Talk: [https://www.slideshare.net/hgmorbin/voc-j-testou-os-seus-testes](https://www.slideshare.net/hgmorbin/voc-j-testou-os-seus-testes)
 
 
-## Janiero 2019 - Ilegra (31/01/2019)
+## Janeiro 2019 - Ilegra (31/01/2019)
 
 ### - Juliano Terres - Fastlane
 
