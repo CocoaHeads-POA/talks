@@ -1,6 +1,21 @@
 # Talks 2019
 Lista de Talks de 2019
 
+## Abril 2019 - Warren (25/04/2019)
+
+### - Wagner Assis - What’s new in Swift 5.0
+
+- Talk: https://docs.google.com/presentation/d/1vCe1s2zXRC6mJ6VSaUCTOr88I93Otm1ZyLARYhHsh3o/edit#slide=id.p
+
+### - Victor S Melo - iOS Modular
+
+- Talk: https://drive.google.com/open?id=1JsWpLf4pxhQD_UJsO5nJyxeAWsQV0tdT
+
+### - Laura Corssac - RXSwift: a new way of coding
+
+- Keynote + códigos: https://drive.google.com/open?id=1j7LLw3_dVj_A2OlgrDQcvibHfg69XEL-
+
+
 ## Março 2019 - Deliver IT (Cross com GDG) (28/03/2019)
 
 ### - Victor Panitz Magalhães - Adicionando testes a aplicativos em produção
