@@ -1,5 +1,6 @@
-# Talks 2019
-Lista de Talks de 2019
+# Lista de Talks 2019
+
+<br>
 
 ## Abril 2019 - Warren (25/04/2019)
 
@@ -15,6 +16,7 @@ Lista de Talks de 2019
 
 - Keynote + códigos: https://drive.google.com/open?id=1j7LLw3_dVj_A2OlgrDQcvibHfg69XEL-
 
+<br><br>
 
 ## Março 2019 - Deliver IT (Cross com GDG) (28/03/2019)
 
@@ -22,6 +24,7 @@ Lista de Talks de 2019
 
 - Talk: https://www.youtube.com/watch?v=xXaq0Dkr8BQ&t=1s
 
+<br><br>
 
 ## Fevereiro 2019 - TW (28/02/2019)
 
@@ -29,15 +32,15 @@ Lista de Talks de 2019
 
 - Talk: [https://www.slideshare.net/hgmorbin/voc-j-testou-os-seus-testes](https://www.slideshare.net/hgmorbin/voc-j-testou-os-seus-testes)
 
+<br><br>
 
-## Janeiro 2019 - Ilegra (31/01/2019)
+## Janeiro 2019 - ilegra (31/01/2019)
 
 ### - Juliano Terres - Fastlane
 
 - Repositório: [https://github.com/julianoterres/ios-app-marvel-mvp-architecture](https://github.com/julianoterres/ios-app-marvel-mvp-architecture)
 
 - Talk:
-
 
 ### - Homero Oliveira - Swift Tricks and Tips
 
