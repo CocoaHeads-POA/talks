@@ -2,6 +2,20 @@
 
 <br>
 
+## Setembro 2019 - Movile (26/09/2019)
+
+### Rafael Machado e Henrique Morbin - Programação funcional e modelagem de fluxos
+
+- Talk:
+
+### Victor Magalhães - Conversational shortcuts
+
+- Talk:
+
+### William Haas - Otimizando o desenvolvimento através do BDD
+
+- Talk: https://drive.google.com/file/d/1UmebxdLewwk9eiCzmXYIMrJAX_MCjq8Q/view
+
 ## Abril 2019 - Warren (25/04/2019)
 
 ### - Wagner Assis - What’s new in Swift 5.0
