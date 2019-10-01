@@ -16,6 +16,38 @@
 
 - Talk: https://drive.google.com/file/d/1UmebxdLewwk9eiCzmXYIMrJAX_MCjq8Q/view
 
+## Agosto 2019 - 4All (29/08/2019)
+
+### Guilherme e Arlindo - Codando simples e assíncrono com Coroutines
+
+- Talk:
+
+### Paulo Henrique dos Santos - Clean Swift
+
+- Talk:
+
+### Fishbowl
+
+## Julho 2019 - Getnet (25/07/2019)
+
+### Victor dos Santos Melo - Advanced Debugging
+
+- Talk:
+
+### Fishbowl sobre carreira
+
+## Junho 2019
+
+## Maio 2019 - Poatek
+
+### Juliano Nardon - Principais diferenças do desenvolvimento nativo de Android e iOS
+
+- Talk:
+
+### Paulo Henrique dos Santos - Usando VIPER na prática
+
+- Talk:
+
 ## Abril 2019 - Warren (25/04/2019)
 
 ### - Wagner Assis - What’s new in Swift 5.0
@@ -48,7 +80,7 @@
 
 <br><br>
 
-## Janeiro 2019 - ilegra (31/01/2019)
+## Janeiro 2019 - Ilegra (31/01/2019)
 
 ### - Juliano Terres - Fastlane
 
