@@ -24,7 +24,7 @@
 
 ### Paulo Henrique dos Santos - Clean Swift
 
-- Talk:
+- Talk: https://drive.google.com/file/d/1zd5mh4WpT_FhOjLPPpBbXukN7zVFEcVg/view
 
 ### Fishbowl
 
