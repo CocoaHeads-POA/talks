@@ -44,7 +44,7 @@ Evento não realizado neste mês
 
 ### Juliano Nardon - Principais diferenças do desenvolvimento nativo de Android e iOS
 
-- Talk:
+- Talk: https://docs.google.com/presentation/d/11cTSCsnMwtRIi85IEeOjjXlwjwazWG9StJaC_8S3JDc/edit?usp=sharing
 
 ### Paulo Henrique dos Santos - Usando VIPER na prática
 
