@@ -38,6 +38,8 @@
 
 ## Junho 2019
 
+Evento não realizado neste mês
+
 ## Maio 2019 - Poatek (30/05/2019)
 
 ### Juliano Nardon - Principais diferenças do desenvolvimento nativo de Android e iOS
