@@ -32,7 +32,7 @@
 
 ### Victor dos Santos Melo - Advanced Debugging
 
-- Talk:
+- Talk: https://drive.google.com/file/d/13JhR5fqN4REFR9_rFkzRvRQTj_k7kMmZ/view?usp=sharing
 
 ### Fishbowl sobre carreira
 
