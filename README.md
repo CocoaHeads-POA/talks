@@ -6,7 +6,7 @@
 
 ### Rafael Machado e Henrique Morbin - Programação funcional e modelagem de fluxos
 
-- Talk:
+- Talk: https://pt.slideshare.net/hgmorbin/contratos-fortes-com-programao-funcional
 
 ### Victor Magalhães - Conversational shortcuts
 
